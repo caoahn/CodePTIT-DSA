@@ -1,0 +1,1 @@
+{"name":"Local: cetuwwt","url":"c:\\Code ptit 3\\cetuwwt.cpp","tests":[{"id":1708607805819,"input":"2\n5\n1 3 4 5 6\n1 9 16 25 36\n36 25 16 9 1\n3\n1 1 1","output":"YES\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Code ptit 3\\cetuwwt.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: me ucng 1 tu lam","url":"c:\\Code ptit 3\\me ucng 1 tu lam.cpp","tests":[{"id":1710077662169,"input":"1\n4\n1 0 0 0\n\n1 1 0 1\n\n0 1 0 0\n\n0 1 1 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Code ptit 3\\me ucng 1 tu lam.cpp","group":"local","local":true}
